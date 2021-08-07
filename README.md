@@ -57,5 +57,5 @@ pinnableView.topConstraint?.constant = 25.0
 ### Carthage
 Для интеграции ChainableLayout, необходимо прописать в Cartfile:
 ```
-github "LightColorTT/ChainableLayout" ~> 1.0.0
+github "fkrasnovid/ChainableLayout" ~> 1.0.0
 ```
