@@ -1,3 +1,4 @@
+import UIKit
 
 /// Расширение NSLayoutAnchor для возможности установки приоритетов
 extension NSLayoutAnchor {

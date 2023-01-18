@@ -1,3 +1,4 @@
+import UIKit
 
 /// Добавление ограничений относительно контейнера
 public extension UIView {

@@ -1,3 +1,4 @@
+import Foundation
 
 /// Интерфейс для использования AssociatedObject
 protocol PropertyStoring {

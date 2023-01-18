@@ -1,3 +1,4 @@
+import UIKit
 
 /// Получение текущих ограничений
 public extension UIView {

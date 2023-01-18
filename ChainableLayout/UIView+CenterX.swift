@@ -1,3 +1,4 @@
+import UIKit
 
 /// Добавление ограничений .centerX
 public extension UIView {

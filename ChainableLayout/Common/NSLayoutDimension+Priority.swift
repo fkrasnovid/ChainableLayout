@@ -1,3 +1,4 @@
+import UIKit
 
 /// Расширение NSLayoutDimension для возможности установки приоритетов
 extension NSLayoutDimension {

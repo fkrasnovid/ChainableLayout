@@ -1,3 +1,4 @@
+import UIKit
 
 /// Добавление ограничений .firstBaseline
 public extension UIView {

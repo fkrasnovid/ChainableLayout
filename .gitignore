@@ -90,3 +90,14 @@ fastlane/test_output
 iOSInjectionProject/
 
 .DS_Store
+/.build
+/Packages
+xcuserdata/
+DerivedData/
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
+
+.githooks
+*.generated.swift
+/etc
+
+/*.log

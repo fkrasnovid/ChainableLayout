@@ -1,3 +1,4 @@
+import UIKit
 
 /// Добавление ограничений .bottom
 public extension UIView {

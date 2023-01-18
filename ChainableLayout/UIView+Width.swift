@@ -1,3 +1,4 @@
+import UIKit
 
 /// Добавление ограничений .width
 public extension UIView {

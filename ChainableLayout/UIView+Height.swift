@@ -1,3 +1,4 @@
+import UIKit
 
 /// Добавление ограничений .height
 public extension UIView {

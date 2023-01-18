@@ -1,3 +1,4 @@
+import UIKit
 
 /// Сущность для возможности использования <=/>= операторов
 public struct FlexibleOffset {

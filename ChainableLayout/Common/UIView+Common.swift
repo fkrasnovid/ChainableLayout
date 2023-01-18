@@ -1,3 +1,4 @@
+import UIKit
 
 public extension UIView {
 	/// Добавление subviews
